@@ -15,7 +15,7 @@ This repository contains the design files, code, and documentation for the senso
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/<your_username>/micro-mouse-sensor-module.git
+git clone https://github.com/
 ```
 
 2. **Software Dependencies:**
